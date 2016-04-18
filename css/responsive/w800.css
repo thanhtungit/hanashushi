@@ -1,0 +1,20 @@
+@media screen and (min-width: 800px){
+	.menu-block .wpb-row .wpb-item-price .wpb-item-price-title{
+		display: block;
+	}
+	
+}
+#mobile-bar .logo a img{
+	    -webkit-transform: none;
+	    -ms-transform: none;
+	        transform: none;
+	left: 50%;
+	margin-top: 15px;
+margin-left: -77px;
+}
+#mobile-bar .logo a{
+	position: inherit;
+}
+.nav-menu-mobile li a:hover{
+	color: #ffbd3d;
+}
